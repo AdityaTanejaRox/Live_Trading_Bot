@@ -1,0 +1,1 @@
+> **Proprietary Notice:** This repository is private and proprietary. Unauthorized use, copying, modification, distribution, or commercialization of this codebase is strictly prohibited without explicit written permission. Access to this repository does NOT grant any license or rights to use the code. See the LICENSE file for full terms.
